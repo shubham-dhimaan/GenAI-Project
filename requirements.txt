@@ -4,3 +4,6 @@ dotenv
 langchain-google-genai
 langchain_anthropic
 streamlit
+langchain_ollama
+langchain_groq 
+langchain_community
